@@ -13,4 +13,6 @@ Things to look out for:
 | 1.| `SPI.transfer(cmd)`| |
 | 2.| | got `cmd`, set USIDR to response |
 | 3.| response = `SPI.transfer(anything)` |  |
+| 2.| | got `anything` |
+
 
